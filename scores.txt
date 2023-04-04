@@ -12,3 +12,4 @@ Manolo: Hello world!
 [1] Local Player: Noice
 [1] Local Player: Noicedww
 [1] Local Player: Noicedww
+Hello Manolo of VRChat!
