@@ -13,3 +13,4 @@ Yes but it will be more obvious who it is once uploaded.
 I see, it is sent from Unity VRChat Simulator
 Now I wonder if this'll work on Quest.
 Only one way to find out
+[1] Local Player: Testing again.
