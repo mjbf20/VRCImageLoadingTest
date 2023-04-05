@@ -19,3 +19,4 @@ Might wanna mute this server for a sec.
 [1] Local Player: Test
 FromVR:Hello!
 Bowser says hi!
+Bowser says hi!
