@@ -281,3 +281,5 @@ i have arrived
 Mute the server. It's gonna get crazy.
 
 yeah but any good chat will get buried
+
+I probably should of mentioned there's a minute delay for messages to appear in world.
