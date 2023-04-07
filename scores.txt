@@ -219,3 +219,5 @@ bruh
 bruh
 
 bruh
+
+I say we find a way to make it so the bot doesn't spam the "message added"
