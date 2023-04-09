@@ -852,3 +852,5 @@ Yes. It is wild.
 @ sus
 
 cool
+
+Ok the bot has been updated to delete the first 1,000 messages from the vrchat world once it passes 2,000 messages. Seems like there's a limit on how many new lines you can have for some reason. The messages will stay in the discord server itself so that's good. I also updated the bot to not upload repeats of the same message back to back. I'll try to update the world soon to have a search feature and a form of private chat in which only you can see messages that at signed to your vrchat username. The bot already has the at sign programmed to delete the message from the discord server so that only vrchat users with the correct name can see the message in the vrchat world. Keep in mind people in the discord server can see your message as a notification so don't get too personal.
