@@ -982,3 +982,4 @@ AI Bot is: Off
 AI Bot is: ON
 
 Try again now.
+Try again. Should work now.
