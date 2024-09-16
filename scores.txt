@@ -988,3 +988,4 @@ vrchat discord test =
 Hello Mario. This is a test.=
 Please be kind and love yourself, spread positivity!=
 7/imagine prompt:pikachu, running in a forest=
+Hello from Manolo!
